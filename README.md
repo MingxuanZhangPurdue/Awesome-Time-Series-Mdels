@@ -22,6 +22,8 @@
 
 ## Transformer-based models:
 
+[Transformers in Time Series: A Survey](https://arxiv.org/pdf/2202.07125.pdf)
+
 [AutoFormer](https://arxiv.org/pdf/2106.13008.pdf)
 
 [Informer](https://arxiv.org/pdf/2012.07436.pdf)
