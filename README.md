@@ -14,4 +14,6 @@
 
 [DeepStateSpaceModels](https://papers.nips.cc/paper_files/paper/2018/file/5cf68969fb67aa6082363a6d4e6468e2-Paper.pdf)
 
+[MQRNN](https://arxiv.org/pdf/1711.11053.pdf)
+
 ## Transformer-based models:
