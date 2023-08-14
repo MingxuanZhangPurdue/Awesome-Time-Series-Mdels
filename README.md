@@ -8,6 +8,10 @@
 
 [N-HiTS](https://arxiv.org/pdf/2201.12886.pdf)
 
+[Meta-learning framework with applications to zero-shot time-series forecasting](https://arxiv.org/pdf/2002.02887.pdf)
+
+[FC-GAGA](https://arxiv.org/pdf/2007.15531.pdf)
+
 ## RNN-based models:
 
 [DeepAR](https://arxiv.org/pdf/1704.04110.pdf)
