@@ -21,3 +21,13 @@
 [MQRNN](https://arxiv.org/pdf/1711.11053.pdf)
 
 ## Transformer-based models:
+
+[AutoFormer](https://arxiv.org/pdf/2106.13008.pdf)
+
+[Informer](https://arxiv.org/pdf/2012.07436.pdf)
+
+[FedFormer](https://arxiv.org/pdf/2201.12740.pdf)
+
+[FiLM](https://arxiv.org/pdf/2205.08897.pdf)
+
+[Non-stationary Transformers](https://arxiv.org/pdf/2205.14415.pdf)
