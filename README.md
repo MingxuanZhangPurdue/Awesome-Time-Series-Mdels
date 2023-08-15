@@ -20,6 +20,8 @@
 
 [MQRNN](https://arxiv.org/pdf/1711.11053.pdf)
 
+[Recurrent Neural Networks for Time Series Forecasting: Current Status and Future Directions](https://arxiv.org/pdf/1909.00590.pdf)
+
 ## Transformer-based models:
 
 [Transformers in Time Series: A Survey](https://arxiv.org/pdf/2202.07125.pdf)
