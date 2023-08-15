@@ -1,4 +1,4 @@
-# Awsome-Time-Series-Mdels
+# Awesome-Time-Series-Mdels
 
 ## MLP-based models:
 
