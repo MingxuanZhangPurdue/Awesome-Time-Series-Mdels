@@ -1,6 +1,6 @@
 # Awesome-Time-Series-Mdels
 
-## MLP-based models:
+## MLP/Linear-based models:
 
 [N-BEATS](https://arxiv.org/pdf/1905.10437.pdf)
 
@@ -11,6 +11,8 @@
 [Meta-learning Framework with Applications to Zero-shot Time-series Forecasting](https://arxiv.org/pdf/2002.02887.pdf)
 
 [FC-GAGA](https://arxiv.org/pdf/2007.15531.pdf)
+
+[Dlinear](https://arxiv.org/pdf/2205.13504.pdf)
 
 ## RNN-based models:
 
