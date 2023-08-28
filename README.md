@@ -15,17 +15,17 @@
 
 ## MLP/Linear-based models:
 
-[N-BEATS](https://arxiv.org/pdf/1905.10437.pdf)
+[N-BEATS](https://arxiv.org/pdf/1905.10437.pdf)(###SOTA)
 
 [N-BEATSx](https://arxiv.org/pdf/2104.05522.pdf)
 
-[N-HiTS](https://arxiv.org/pdf/2201.12886.pdf)
+[N-HiTS](https://arxiv.org/pdf/2201.12886.pdf)(###SOTA)
 
 [Meta-learning Framework with Applications to Zero-shot Time-series Forecasting](https://arxiv.org/pdf/2002.02887.pdf)
 
 [FC-GAGA](https://arxiv.org/pdf/2007.15531.pdf)
 
-[Dlinear](https://arxiv.org/pdf/2205.13504.pdf)
+[Dlinear](https://arxiv.org/pdf/2205.13504.pdf)(###SOTA)
 
 ## RNN-based models:
 
@@ -37,13 +37,13 @@
 
 [Recurrent Neural Networks for Time Series Forecasting: Current Status and Future Directions](https://arxiv.org/pdf/1909.00590.pdf)
 
-[SegRNN](https://arxiv.org/pdf/2308.11200.pdf)
+[SegRNN](https://arxiv.org/pdf/2308.11200.pdf)(###SOTA)
 
 ## Transformer-based models:
 
 [Transformers in Time Series: A Survey](https://arxiv.org/pdf/2202.07125.pdf)
 
-[AutoFormer](https://arxiv.org/pdf/2106.13008.pdf)
+[AutoFormer](https://arxiv.org/pdf/2106.13008.pdf)(###SOTA)
 
 [Informer](https://arxiv.org/pdf/2012.07436.pdf)
 
