@@ -25,7 +25,7 @@
 
 [FC-GAGA](https://arxiv.org/pdf/2007.15531.pdf)
 
-[Dlinear](https://arxiv.org/pdf/2205.13504.pdf)(###SOTA)
+[Dlinear](https://arxiv.org/pdf/2205.13504.pdf) (###SOTA)
 
 ## RNN-based models:
 
@@ -37,13 +37,13 @@
 
 [Recurrent Neural Networks for Time Series Forecasting: Current Status and Future Directions](https://arxiv.org/pdf/1909.00590.pdf)
 
-[SegRNN](https://arxiv.org/pdf/2308.11200.pdf)(###SOTA)
+[SegRNN](https://arxiv.org/pdf/2308.11200.pdf) (###SOTA)
 
 ## Transformer-based models:
 
 [Transformers in Time Series: A Survey](https://arxiv.org/pdf/2202.07125.pdf)
 
-[AutoFormer](https://arxiv.org/pdf/2106.13008.pdf)(###SOTA)
+[AutoFormer](https://arxiv.org/pdf/2106.13008.pdf) (###SOTA)
 
 [Informer](https://arxiv.org/pdf/2012.07436.pdf)
 
