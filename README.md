@@ -1,5 +1,9 @@
 # Awesome-Time-Series-Mdels
 
+## Awsome posts:
+
+[Yes, Transformers are Effective for Time Series Forecasting (+ Autoformer)](https://huggingface.co/blog/autoformer)
+
 ## Implementations:
 [HuggingFace Transformers](https://huggingface.co/docs/transformers/main/en/model_doc/autoformer)
 
