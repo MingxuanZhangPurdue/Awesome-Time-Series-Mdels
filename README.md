@@ -4,7 +4,7 @@
 
 [Probabilistic Time Series Forecasting with 🤗 Transformers](https://huggingface.co/blog/time-series-transformers)
 
-[Multivariate Probabilistic Time Series Forecasting with Informe](https://huggingface.co/blog/informer)
+[Multivariate Probabilistic Time Series Forecasting with Informer](https://huggingface.co/blog/informer)
 
 [Yes, Transformers are Effective for Time Series Forecasting (+ Autoformer)](https://huggingface.co/blog/autoformer)
 
